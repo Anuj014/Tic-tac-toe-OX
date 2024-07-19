@@ -1,4 +1,4 @@
-<b>Here is a simple introduction to a Tic Tac Toe game made using HTML, CSS, and JavaScript​: Welcome to Tic Tac Toe! Play as X or O Your goal: Get three in a row, either horizontally, vertically, or diagonally. </b>
+Here is a simple introduction to a Tic Tac Toe game made using HTML, CSS, and JavaScript​: Welcome to Tic Tac Toe! Play as X or O Your goal: Get three in a row, either horizontally, vertically, or diagonally.
 
 Game Board:
 
