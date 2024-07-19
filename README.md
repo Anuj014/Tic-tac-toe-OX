@@ -2,9 +2,9 @@ Here is a simple introduction to a Tic Tac Toe game made using HTML, CSS, and Ja
 
 Game Board:
 
- 0 | 1 | 2 
- 3 | 4 | 5 
- 6 | 7 | 8 
+ 0 | 1 | 2 <br/> 
+ 3 | 4 | 5 <br/>
+ 6 | 7 | 8 <br/>
 
 Instructions:
 
